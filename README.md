@@ -14,6 +14,7 @@ git 文件的四种状态
 
 
 git 常用命令
+
 	git status  			----- 打印当前文件状态
 	git log					----- 打印提交版本日志
 	git add  'fileName'	or .----- 将已修改的指定(所有)文件提交到暂存区 
